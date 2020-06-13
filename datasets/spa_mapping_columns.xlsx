@@ -1,0 +1,56 @@
+GLOBAL_VAR_NAME,VAR_NAME,SAS_VAR_NAME,CAT_ID,CAT_DESC
+Number of facitilies ,Facility identification,FACIL,1,Capacity
+Number of full-time staff,Total staff full time,Q400AT,1,Capacity
+Number of hospital beds,Number of overnight/in-patient beds,Q112,1,Capacity
+Improved water source,Water onsite/within 500 meters,Q331,2,Infection Prevention
+Regular electricity ,Facility connected to central supply electricity,Q340,2,Infection Prevention
+Client latrine,Toilet/latrine available for client use,Q620,2,Infection Prevention
+Appropriate disposal of infectious waste,Functioning incinerator with fuel ,Q607,2,Infection Prevention
+Appropriate disposal of infectious waste,Medical waste disposal site,Q605,2,Infection Prevention
+Sterilization equipment,Electric dry heat sterilizer:Available/functioning,Q501B_04,2,Infection Prevention
+Equipment for high level disinfection (HLD),Dry heat sterilization used for final FP equipment processing,Q1322B,2,Infection Prevention
+Equipment for high level disinfection (HLD),Chlorine solution soak used for final FP equipment processing,V343C,2,Infection Prevention
+Equipment for high level disinfection (HLD),Boil or steam used for final FP equipment processing,Q1322D,2,Infection Prevention
+Equipment for high level disinfection (HLD),Chemical HLD facility,HLDFAC,2,Infection Prevention
+Equipment for high level disinfection (HLD),Chemical HLD capacity,HLDCAP,2,Infection Prevention
+Written guidelines for sterilization or HLD,Guidelines for sterilization observed/ reported,Q503,2,Infection Prevention
+Safe final disposal of sharp waste,Sharps waste disposal site,Q603,2,Infection Prevention
+Disposal of sharps waste,Disposal of sharps waste,Q600,2,Infection Prevention
+Disposal of sharps waste,Facility has good sharps waste disposal,SHARPWASTE,2,Infection Prevention
+Soap and running water or else alcohol-based hand disinfectant ,Alcohol based hand rub,Q710_03  ,2,Infection Prevention
+Soap and running water or else alcohol-based hand disinfectant ,Disinfectant,Q710_08,2,Infection Prevention
+Soap and running water or else alcohol-based hand disinfectant ,Running water,Q710_01,2,Infection Prevention
+Soap and running water or else alcohol-based hand disinfectant ,Soap,Q710_02,2,Infection Prevention
+Latex Gloves,Clean/sterile latex gloves,Q710_07,3,Personal Protective Equipment 
+Medical Masks,Medical masks,Q710_10,3,Personal Protective Equipment 
+Gowns,Gowns,Q710_11,3,Personal Protective Equipment 
+Eye Protection,Eye protection,Q710_12,3,Personal Protective Equipment 
+Thermometer,Other equip:Thermometer,Q1622B_09,4,Diagnostic Capacity
+Stethoscope,Other equip:Foetal stethoscope,Q1622B_12,4,Diagnostic Capacity
+Blood glucose,Test: Blood glucose,Q830,4,Diagnostic Capacity
+Liver or renal function tests,"Lab tests:Any LFT, Blood Glucose, Urine(see V849, V850, V851)",Q832,4,Diagnostic Capacity
+Blood pressure monitor,Other equip:Digital blood pressure apparatus,Q1314B_01,4,Diagnostic Capacity
+Blood pressure monitor,Other equip:Manual blood pressure apparatus,Q1314B_02,4,Diagnostic Capacity
+X ray machine,Equipment available:Digital X-ray not requiring film,Q881B_01,4,Diagnostic Capacity
+X ray machine,Equipment available:X-ray machine+,Q881B_02,4,Diagnostic Capacity
+X ray machine,"Performs diagnostic X-rays, ultrasound, computerized tomography",Q880,4,Diagnostic Capacity
+X ray machine,"Performs diagnostic X-rays, ultrasound, computerized tomography",Q880,4,Diagnostic Capacity
+Inpatient care,Routine in-patient care or Overnight observation,Q110,5,Theraputic Readiness
+Oxygen-filled oxygen cylinders,Oxygen concentrators available and functioning,Q700B_17,5,Theraputic Readiness
+Oxygen-filled oxygen cylinders,Filled oxygen cylinder available and functioning,Q700B_18,5,Theraputic Readiness
+Oxygen-filled oxygen cylinders,Oxygen distribution system available and functioning,Q700B_19,5,Theraputic Readiness
+Referral capacity-communication equipment,Landline telephone  ,Q310,5,Theraputic Readiness
+Referral capacity-communication equipment,Cellphone,Q313,5,Theraputic Readiness
+Referral capacity-communication equipment,Shortwave radio,Q316,5,Theraputic Readiness
+Referral capacity-functional ambulance at facility,Functional ambulance at facility,Q450 - Q453,5,Theraputic Readiness
+Test conducted & equipment available: Glucometer,Test conducted & equipment available: Glucometer,Q831B_01,5,Theraputic Readiness
+Functional ambulance at facility,Functional ambulance at facility,Q450,6,Ambulance at facility
+Functional ambulance at facility,Observed ,Q451,6,Ambulance at facility
+Functional ambulance at facility,Fuel available,Q452,6,Ambulance at facility
+Functional ambulance at facility,Available elsewhere from a nearby facility,Q453,6,Ambulance at facility
+Number of full-time staff,"Number of generalists, full-time",Q400A_01,1,Capacity
+Number of full-time staff,"Number of specialists, full-time",Q400A_02,1,Capacity
+Number of full-time staff,"Number of lab technicians, full-time",Q400A_03,1,Capacity
+Number of full-time staff,"Number of lab assistants, full-time",Q400A_04,1,Capacity
+Number of full-time staff,"Number of nurses, full-time",Q400A_08,1,Capacity
+Number of full-time staff,"Number of specialists nurses, full-time",Q400A_09,1,Capacity
