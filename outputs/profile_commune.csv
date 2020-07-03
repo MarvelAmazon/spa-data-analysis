@@ -1,0 +1,37 @@
+departn,,,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Artibonite,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord,Nord
+vilcomn,,,Anse-Rouge,Desdunes,Dessalines,Ennery,Gona!ves,Grande Saline,Gros Morne,Gros-Morne,La Chapelle,Marmelade,Saint-Marc,Saint-Michel,St Marc,Terre-Neuve,Verrettes,bLEst!re,bPetite-Rivi!re de lArtibonite,Acul-du-Nord,Bahon,Bas-Limb!,Borgne,Cap-Ha!tien,Cap-Haitien,Dondon,Grande-Rivi!re,La Victoire,Limb!,Limbe,Limonade,Milot,Pignon,Pilate,Plaine du Nord,Plaine-du-Nord,Plaisance,Port-Margot,Quartier-Morin,Ranquitte,Saint-Rapha!l
+CATEGORY,GLOBAL_VAR_NAME,VAR_NAME,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Capacity,"Number of generalists, full-time",MEDECINS GENERALISTES,4,4,14,8,56,6,0,12,4,4,44,2,0,2,22,8,14,30,2,0,24,96,8,2,16,2,16,4,14,2,8,12,2,80,8,16,38,2,2
+Capacity,"Number of lab assistants, full-time",AUXILIAIRE DE LABORATOIRE (Y COMPRIS AIDE),0,0,0,0,12,0,0,0,0,0,18,0,0,0,8,0,8,0,0,0,0,4,0,0,0,0,2,0,6,2,0,8,0,2,0,2,4,0,0
+Capacity,"Number of lab technicians, full-time",TECHNICIEN DE LABORATOIRE,2,4,20,20,62,2,0,20,2,6,38,8,2,2,34,14,14,20,4,4,20,122,6,4,18,2,32,2,22,30,14,8,4,82,12,20,32,4,6
+Capacity,"Number of nurses, full-time",INFERMIER,10,4,84,22,254,6,6,10,4,12,168,10,2,0,128,28,42,40,8,8,36,310,8,6,26,6,48,2,30,228,32,34,6,160,12,30,92,10,18
+Capacity,"Number of pharmacist, full-time",PHARMACIEN,0,0,0,2,10,0,0,2,0,0,6,0,0,0,6,0,2,4,0,2,2,8,2,0,2,0,4,0,2,8,0,2,0,8,2,0,0,0,0
+Capacity,Total full-time staff,TOTAL FULL-TIME STAFF,88,54,424,206,940,74,8,250,26,86,732,196,16,42,680,134,420,184,34,26,160,952,30,78,152,28,216,14,122,494,194,182,12,540,90,120,342,36,84
+Diagnostic Capacity,Stethoscope*,Other equip:Stethoscope,7,3,20,7,16,2,1,12,1,1,17,8,1,2,9,4,9,8,2,2,3,21,2,2,4,2,5,1,7,5,2,2,1,15,5,6,8,2,2
+Diagnostic Capacity,Thermometer*,General OPD area: Thermometer available and functioning,6,2,20,7,14,2,1,11,1,1,15,6,1,2,9,4,9,8,2,2,2,21,2,2,4,2,5,1,7,5,2,2,1,15,5,6,7,2,2
+Diagnostic Capacity,X ray machine*,Equipment available:Digital X-ray not requiring film,0,0,1,0,2,0,0,1,0,0,2,0,0,0,2,2,1,1,0,0,0,6,0,0,1,0,1,0,0,1,1,1,0,5,0,1,2,0,0
+Infection Prevention,Regular electricity ,Facility connected to central supply electricity,0,1,4,1,7,0,0,1,1,1,4,2,0,0,0,0,1,1,1,0,0,18,1,0,1,0,1,0,1,0,1,0,1,6,0,3,1,0,1
+Infection Prevention,Soap and running water or else alcohol-based hand disinfectant*,Alcohol based hand rub,7,2,19,6,13,2,1,11,1,1,16,7,1,2,8,3,6,8,2,2,2,19,2,2,3,2,5,0,4,4,2,2,1,15,3,6,5,1,1
+Theraputic Readiness,Inpatient care,Routine in-patient care or Overnight observation,1,1,1,1,4,1,0,4,0,1,2,2,0,0,2,1,3,1,0,0,1,6,0,0,1,1,3,0,1,1,1,1,0,7,2,2,1,1,1
+Theraputic Readiness,Number of hospital beds,Number of overnight/in-patient beds,18,20,74,38,450,12,0,140,6,10,374,30,10,10,360,36,144,34,10,0,90,318,2,78,42,8,182,6,28,204,72,144,0,338,28,48,200,10,24
+Theraputic Readiness,Oxygen-filled oxygen cylinders*,Oxygen concentrators available and functioning,0,0,0,1,2,1,0,2,0,1,1,0,0,0,3,0,2,1,0,0,0,5,1,0,1,0,3,0,0,0,0,0,0,4,1,0,4,0,0
+Theraputic Readiness,Referral capacity-functional ambulance at facility*,Functional ambulance at facility,3,0,3,2,3,0,0,3,1,0,4,1,0,1,3,2,4,1,0,0,0,8,1,0,1,0,2,0,1,2,0,1,0,6,1,1,2,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+vilcomn,,,Acul-du-Nord,Bahon,Bas-Limbé,Borgne,Cap-Ha!tien,Cap-Haitien,Dondon,Grande-Rivi!re,La Victoire,Limbé,Limbé,Limonade,Milot,Pignon,Pilate,Plaine du Nord,Plaine-du-Nord,Plaisance,Port-Margot,Quartier-Morin,Ranquitte,Saint-Rapha!l,,,,,,,,,,,,,,,,,
+CATEGORY,GLOBAL_VAR_NAME,VAR_NAME,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Capacity,"Number of generalists, full-time",MEDECINS GENERALISTES,30,2,0,24,96,8,2,16,2,16,4,14,2,8,12,2,80,8,16,38,2,2,,,,,,,,,,,,,,,,,
+Capacity,"Number of lab assistants, full-time",AUXILIAIRE DE LABORATOIRE (Y COMPRIS AIDE),0,0,0,0,4,0,0,0,0,2,0,6,2,0,8,0,2,0,2,4,0,0,,,,,,,,,,,,,,,,,
+Capacity,"Number of lab technicians, full-time",TECHNICIEN DE LABORATOIRE,20,4,4,20,122,6,4,18,2,32,2,22,30,14,8,4,82,12,20,32,4,6,,,,,,,,,,,,,,,,,
+Capacity,"Number of nurses, full-time",INFERMIER,40,8,8,36,310,8,6,26,6,48,2,30,228,32,34,6,160,12,30,92,10,18,,,,,,,,,,,,,,,,,
+Capacity,"Number of pharmacist, full-time",PHARMACIEN,4,0,2,2,8,2,0,2,0,4,0,2,8,0,2,0,8,2,0,0,0,0,,,,,,,,,,,,,,,,,
+Capacity,Total full-time staff,TOTAL FULL-TIME STAFF,184,34,26,160,952,30,78,152,28,216,14,122,494,194,182,12,540,90,120,342,36,84,,,,,,,,,,,,,,,,,
+Diagnostic Capacity,Stethoscope*,Other equip:Stethoscope,8,2,2,3,21,2,2,4,2,5,1,7,5,2,2,1,15,5,6,8,2,2,,,,,,,,,,,,,,,,,
+Diagnostic Capacity,Thermometer*,General OPD area: Thermometer available and functioning,8,2,2,2,21,2,2,4,2,5,1,7,5,2,2,1,15,5,6,7,2,2,,,,,,,,,,,,,,,,,
+Diagnostic Capacity,X ray machine*,Equipment available:Digital X-ray not requiring film,1,0,0,0,6,0,0,1,0,1,0,0,1,1,1,0,5,0,1,2,0,0,,,,,,,,,,,,,,,,,
+Infection Prevention,Regular electricity ,Facility connected to central supply electricity,1,1,0,0,18,1,0,1,0,1,0,1,0,1,0,1,6,0,3,1,0,1,,,,,,,,,,,,,,,,,
+Infection Prevention,Soap and running water or else alcohol-based hand disinfectant*,Alcohol based hand rub,8,2,2,2,19,2,2,3,2,5,0,4,4,2,2,1,15,3,6,5,1,1,,,,,,,,,,,,,,,,,
+Theraputic Readiness,Inpatient care,Routine in-patient care or Overnight observation,1,0,0,1,6,0,0,1,1,3,0,1,1,1,1,0,7,2,2,1,1,1,,,,,,,,,,,,,,,,,
+Theraputic Readiness,Number of hospital beds,Number of overnight/in-patient beds,34,10,0,90,318,2,78,42,8,182,6,28,204,72,144,0,338,28,48,200,10,24,,,,,,,,,,,,,,,,,
+Theraputic Readiness,Oxygen-filled oxygen cylinders*,Oxygen concentrators available and functioning,1,0,0,0,5,1,0,1,0,3,0,0,0,0,0,0,4,1,0,4,0,0,,,,,,,,,,,,,,,,,
+Theraputic Readiness,Referral capacity-functional ambulance at facility*,Functional ambulance at facility,1,0,0,0,8,1,0,1,0,2,0,1,2,0,1,0,6,1,1,2,0,0,,,,,,,,,,,,,,,,,
